@@ -51,6 +51,7 @@ Feminist Text Analysis (DHUM72500)
 
 ## Can there be a feminist text analysis?
 Reflections on science, digital humanities, and text analysis methods and applications
+PDF file with this introduction [here](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Livia%20Clarete_%20DHUM72500%20FINAL%20PORTFOLIO%20-%20Can%20there%20be%20a%20feminist%20text%20analysis.pdf).
 
 
 **Introduction**
