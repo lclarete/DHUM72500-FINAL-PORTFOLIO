@@ -1,5 +1,54 @@
 # DHUM72500-FINAL-PORTFOLIO
 
+Livia Clarete
+livia.clarete@gmail.com
+
+## Weekly topic
+
+| Week | Topic                          | Link                                                                                  |
+|------|--------------------------------|---------------------------------------------------------------------------------------|
+| 2    | Sex, Gender, & Feminism       | [Clarete_week2.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_week2.ipynb) |
+| 3    | Text                           | [Clarete_Week3.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_Week3.ipynb) |
+| 4    | Analysis                       | [Clarete_Week4.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_Week4.ipynb) |
+| 5    | Research Questions             | [Clarete_Week5.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_Week5.ipynb) |
+| 7    | Data                           | [Clarete_Week7.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_Week7.ipynb) |
+| 8    | Conceptualization              | [Clarete_Week8.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_Week8.ipynb) |
+| 10   | Conceptualization              | [Clarete_Week10_theory.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_Week10_theory.ipynb) |
+|      |                                | [Clarete_week10_movie_review.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_week10_movie_review.ipynb) |
+| 11   | Operationalization             | [Clarete_Week11_classification.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_Week11_classification.ipynb) |
+| 14   | Analysis roundup               | [Clarete_Week14_topic_analysis.ipynb](https://github.com/lclarete/DHUM72500-FINAL-PORTFOLIO/blob/main/Clarete_Week14_topic_analysis.ipynb) |
+
+
+
+## Blog posts
+
+- In Search of Zora/When Metadata Isn’t Enough: Rescuing the Experiences of Black Women Through Statistical Modeling  
+  Week 8: March 27 – Conceptualization  
+  [Link](https://femethods2023.commons.gc.cuny.edu/week-8-march-27-conceptualization/)
+
+- Ulysses Interactive Visualization with scattertext (HDTMT)  
+  [Link](https://femethods2023.commons.gc.cuny.edu/ulysses-interactive-visualization-with-scattertext-hdtmt/)
+
+- Book review: Ulysses by Numbers by Eric Bulson  
+  [Link](https://femethods2023.commons.gc.cuny.edu/book-review-ulysses-by-numbers-by-eric-bulson/)
+
+- Weapons of Math Destruction - a deep dive into the recidivism algorithm  
+  [Link](https://femethods2023.commons.gc.cuny.edu/weapons-of-math-destruction-cathy-oneil/)
+
+- Abstract: Unveiling the Patient Journey: A Gender Perspective on Chronic Disease-Centered Care  
+  [Link](https://femethods2023.commons.gc.cuny.edu/annotating-healthcare-dataset-patient-journey-chronic-disease/)
+
+
+
+## Can there be a feminist text analysis?
+Reflections on science, digital humanities, and text analysis methods and applications
+
+Livia Clarete - livia.clarete@gmail.com 
+Professor Lisa Rhody
+Feminist Text Analysis (DHUM72500)
+26 May 2023
+
+
 **Introduction**
 
 "Data is the new oil.". This famous quote was first attributed to Clive Humby in 2006, the British mathematician and data scientist who openly discussed the importance that data plays in the modern economy. The amount of information produced in 2022 is estimated at 64.2 zettabytes, sixty times greater than the 1.2 zettabytes from 2010. By 2025, society is expected to produce 180 zettabytes. Not only is the amount of information growing, but even the metrics to measure it: a zettabyte represents 1 trillion gigabytes. Most of the new data is unstructured. It comes as texts, images, audios, and other sources of rich data. The question now is how to extract meaningful information and learn from this material. Recently, this idea from early 2000 has been challenging: data is not the new oil. Time is. This is our most valuable currency. Humans are still better in judgment, but our time and attention are limited to manually processing them (Nguyen et al, 2019). 
