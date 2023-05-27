@@ -1,7 +1,16 @@
-# DHUM72500-FINAL-PORTFOLIO
+# DHUM72500 FINAL PORTFOLIO
+
 
 Livia Clarete
-livia.clarete@gmail.com
+livia.clarete@gmail.com 
+
+Professor Lisa Rhody
+
+Feminist Text Analysis (DHUM72500)
+
+26 May 2023
+
+
 
 ## Weekly topic
 
@@ -42,11 +51,6 @@ livia.clarete@gmail.com
 
 ## Can there be a feminist text analysis?
 Reflections on science, digital humanities, and text analysis methods and applications
-
-Livia Clarete - livia.clarete@gmail.com 
-Professor Lisa Rhody
-Feminist Text Analysis (DHUM72500)
-26 May 2023
 
 
 **Introduction**
